@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "My first GUI..app?",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Callidus",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^4.0.0"
+  }
+}
